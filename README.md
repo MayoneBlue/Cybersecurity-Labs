@@ -1,9 +1,11 @@
-# Cybersecurity-journey
+# Web Penetration Testing & Cybersecurity Labs
 
-I started learning cybersecurity in 2026.
+This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
-Currently learning on TryHackMe and practicing with Kali Linux.
+### Offensive Security
+* **Introduction to Offensive Security** ✅
+* **Network Enumeration (Nmap)** ✅
 
-Goal: Become a Web Penetration Tester.
-
-I will document everything I learn here.
+### Defensive Security
+* **Introduction to Defensive Security** (In Progress)
+*
