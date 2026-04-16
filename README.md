@@ -7,5 +7,6 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Network Enumeration (Nmap)** ✅
 
 ### Defensive Security
-* **Introduction to Defensive Security** (In Progress)
+* **Introduction to Defensive Security** ✅
+* **Threat Identification & Log Analysis** ✅
 *
