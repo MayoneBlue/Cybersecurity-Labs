@@ -5,8 +5,16 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### Offensive Security
 * **Introduction to Offensive Security** ✅
 * **Network Enumeration (Nmap)** ✅
+* **Careers in Cyber (Penetration Testing)** ✅
 
 ### Defensive Security
 * **Introduction to Defensive Security** ✅
 * **Threat Identification & Log Analysis** ✅
+
+---
+
+### Tech Stack
+* **Development:** Frontend Development (React, HTML, CSS)
+* **Security:** Kali Linux, OpenVPN
+* **Currently Learning:** JavaScript Logic & Backend Functions
 *
