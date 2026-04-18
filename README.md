@@ -3,7 +3,7 @@
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
 ### Networking & Foundations
-* **What is Networking? (In Progress)***
+* **What is Networking? (In Progress)**
 
 ### Offensive Security
 * **Introduction to Offensive Security** ✅
