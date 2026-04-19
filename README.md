@@ -1,9 +1,10 @@
-# Web Penetration Testing & Cybersecurity Labs
+# Web Penetration Testing & Cybersecurity labs
 
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
 ### Networking & Foundations
-* **What is Networking? (In Progress)**
+* **How The Web Works (In Progress)** 
+* **What is Networking? (In Progress)** 
 
 ### Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -12,12 +13,12 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### Defensive Security
 * **Introduction to Defensive Security** ✅
-* **Threat Identification & Log Analysis** ✅
+* **Threat Identification & log Analysis** ✅
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
 * **Security:** Kali Linux, OpenVPN
-* **Currently Learning:** JavaScript Logic & Backend Functions
+* **Currently learning:** JavaScript logic & Backend Functions
 *
