@@ -5,8 +5,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### Networking & Foundations
 * **DNS in Detail** ✅
 * **HTTP in Detail** ✅
-* **How The Web Works (in Progress)** 
-* **What is Networking? (in Progress)** 
+* **How The Web Works (in Progress)** 🟡
+* **What is Networking? (in Progress)** 🟡
 
 ### Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -20,7 +20,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### Tech Stack
-* **Development:** Frontend Development (React, HTML, CSS)
+* **Development:** Frontend Development (React, HTML, CSS) 
+  * [Live Site: Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀 *(Mobile View in Progress)*
 * **Security:** Kali Linux, OpenVPN
 * **Currently learning:** JavaScript logic & Backend Functions
 *
