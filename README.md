@@ -3,6 +3,7 @@
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
 ### Networking & Foundations
+* **Networking Foundation** (In progress)*** 
 * **How The Web Works** ✅ (Earned "World Wide Web" Badge)
 * **What is Networking?** ✅ 
 
