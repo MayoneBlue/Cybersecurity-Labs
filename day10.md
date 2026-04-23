@@ -1,4 +1,4 @@
-# Day 10 — Thursday, April 23, 2026
+# Day 10 
 
 Since the "Basics" room was premium, I've pivoted straight into **Burp Suite: Repeater**. This tool is essential for capturing, modifying, and re-sending web requests to find vulnerabilities.
 
