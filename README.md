@@ -4,7 +4,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### *** *** Networking & Foundations
 * **How The Web Works** ✅
-* **What is Networking? (In Progress)** 
+* **What is Networking? (In Progress)** *
 
 ### *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
