@@ -1,25 +1,26 @@
-# Web Penetration Testing & Cybersecurity labs
+# Web Penetration Testing & Cybersecurity Jabs
 
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
-### *** *** Networking & Foundations
+### *** *** *** Networking & Foundations
 * **How The Web Works** ✅
-* **What is Networking? (In Progress)** *
+* **What is Networking?** ✅
+* **Inside a Computer System** ✅
 
-### *** *** Offensive Security
+### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
 * **Network Enumeration (Nmap)** ✅
 * **Careers in Cyber (Penetration Testing)** ✅
 * **Burp Suite: Repeater** ✅
 
-### *** *** Defensive Security
+### *** *** *** Defensive Security
 * **Introduction to Defensive Security** ✅
 * **Threat Identification & Log Analysis** ✅
 
 ---
 
-### *** *** Tech Stack
+### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
-* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀 *(Mobile View In Progress)*
+* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀 *(Mobile View in Progress)*
 * **Security:** Kali Linux, OpenVPN, Burp Suite
 *
