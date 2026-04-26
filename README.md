@@ -7,6 +7,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **How The Web Works** ✅
 * **What is Networking?** ✅
 * **Inside a Computer System** ✅
+* **Computer Types** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -22,6 +23,13 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
-* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀 *(Mobile View in Progress)*
+* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
 * **Security:** Kali Linux, OpenVPN, Burp Suite
+
+---
+
+### *** *** *** 📈 Stats & Progress
+* **Streak:** 13 Days 🔥
+* **League:** Silver 🥈 (Rank #9)
+* **Current Points:** 584 pts
 *
