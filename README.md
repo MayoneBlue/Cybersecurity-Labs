@@ -9,6 +9,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Inside a Computer System** ✅
 * **Computer Types** ✅
 * **Virtualisation Basics** ✅
+* **Cloud Computing Fundamentals** ✅
 
 ### *** *** *** 🔴 Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -30,7 +31,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 14 Days 🔥
+* **Streak:** 15 Days 🔥
 * **League:** Silver 🥈
 * **Current Points:** 648 pts 📈
 *
