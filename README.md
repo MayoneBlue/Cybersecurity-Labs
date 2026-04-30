@@ -11,6 +11,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Virtualisation Basics** ✅
 * **Cloud Computing Fundamentals** ✅
 * **Operating Systems: Introduction** ✅
+* **Windows Basics** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -32,7 +33,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 16 Days 🔥
+* **Streak:** 17 Days 🔥
 * **League:** Gold 🥇
-* **Current Points:** 184 pts 📈
+* **Current Points:** 184+ pts 📈
 *
