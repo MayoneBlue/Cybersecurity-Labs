@@ -12,6 +12,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Cloud Computing Fundamentals** ✅
 * **Operating Systems: Introduction** ✅
 * **Windows Basics** ✅
+* **Linux CLI - Shells Bells** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -33,7 +34,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 17 Days 🔥
+* **Streak:** 18 Days 🔥
 * **League:** Gold 🥇
-* **Current Points:** 184+ pts 📈
+* **Current Points:** 296 pts 📈
 *
