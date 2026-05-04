@@ -15,6 +15,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Linux CLI - Shells Bells** ✅
 * **Windows Command Line** ✅
 * **Data Representation** ✅
+* **Data Encoding** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -36,7 +37,6 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 19 Days 🔥
+* **Streak:** 20 Days 🔥
 * **League:** Gold 🥇
-* **Current Points:** 432 pts 📈
 *
