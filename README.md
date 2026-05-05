@@ -16,6 +16,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Windows Command Line** ✅
 * **Data Representation** ✅
 * **Data Encoding** ✅
+* **The CIA Triad** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -37,6 +38,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 20 Days 🔥
+* **Streak:** 21 Days 🔥
 * **League:** Gold 🥇
+* **Rank:** #2 🥈
 *
