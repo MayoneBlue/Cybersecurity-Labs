@@ -17,6 +17,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Data Representation** ✅
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
+* **Cryptography Concepts** ✅
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -38,7 +39,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 21 Days 🔥
+* **Streak:** 22 Days 🔥
 * **League:** Gold 🥇
-* **Rank:** #2 🥈
+* **Current Session Points:** 168 pts 📈
 *
