@@ -18,13 +18,20 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
 * **Cryptography Concepts** ✅
-* **Become a Hacker** ✅ 🆕
+* **Become a Hacker** ✅ 
+* **Intro to Digital Forensics** ✅ 🆕
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
 * **Network Enumeration (Nmap)** ✅
 * **Careers in Cyber (Penetration Testing)** ✅
 * **Burp Suite: Repeater** ✅
+
+### *** *** *** Defensive Security
+* **Introduction to Defensive Security** ✅
+* **Threat Identification & Log Analysis** ✅
+
+---
 
 ### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
@@ -34,7 +41,6 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 23 Days 🔥
+* **Streak:** 24 Days 🔥
 * **League:** Gold 🥇
-* **Session Points:** 192 pts 📈
 *
