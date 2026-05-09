@@ -19,7 +19,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **The CIA Triad** ✅
 * **Cryptography Concepts** ✅
 * **Become a Hacker** ✅ 
-* **Intro to Digital Forensics** ✅ 🆕
+* **Intro to Digital Forensics** ✅ 
+* **Defensive Security Intro** ✅ 
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
@@ -41,6 +42,6 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 24 Days 🔥
+* **Streak:** 25 Days 🔥
 * **League:** Gold 🥇
 *
