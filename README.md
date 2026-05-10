@@ -37,11 +37,11 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security:** Kali Linux, OpenVPN, Burp Suite
+* **Security:** Kali Linux, OpenVPN, Burp Suite, Premium THM Access 💎
 
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 25 Days 🔥
+* **Streak:** 26 Days 🔥
 * **League:** Gold 🥇
 *
