@@ -3,9 +3,12 @@
 
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
+---
+
 ### *** *** *** Networking & Foundations
 * **How The Web Works** ✅
 * **What is Networking?** ✅
+* **Intro to LAN** ✅ 🆕
 * **Inside a Computer System** ✅
 * **Computer Types** ✅
 * **Virtualisation Basics** ✅
@@ -18,18 +21,18 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
 * **Cryptography Concepts** ✅
-* **Become a Hacker** ✅ 
 * **Intro to Digital Forensics** ✅ 
-* **Defensive Security Intro** ✅ 
 
 ### *** *** *** Offensive Security
 * **Introduction to Offensive Security** ✅
 * **Network Enumeration (Nmap)** ✅
 * **Careers in Cyber (Penetration Testing)** ✅
+* **Become a Hacker (Premium)** ✅ 🆕
 * **Burp Suite: Repeater** ✅
 
 ### *** *** *** Defensive Security
 * **Introduction to Defensive Security** ✅
+* **Defensive Security Intro** ✅
 * **Threat Identification & Log Analysis** ✅
 
 ---
@@ -37,11 +40,13 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security:** Kali Linux, OpenVPN, Burp Suite, Premium THM Access 💎
+* **Security Tools:** Kali Linux, OpenVPN, Burp Suite, Nmap
+* **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Streak:** 26 Days 🔥
-* **League:** Gold 🥇
+* **Current Streak:** 27 Days 🔥
+* **Current League:** Gold (Rank #3) 🥇
+* **2026 Goal:** Comprehensive Personal Growth & Technical Mastery
 *
