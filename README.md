@@ -8,7 +8,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Networking & Foundations
 * **How The Web Works** ✅
 * **What is Networking?** ✅
-* **Intro to LAN** ✅ 🆕
+* **Intro to LAN** ✅ 
 * **Inside a Computer System** ✅
 * **Computer Types** ✅
 * **Virtualisation Basics** ✅
@@ -27,7 +27,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Introduction to Offensive Security** ✅
 * **Network Enumeration (Nmap)** ✅
 * **Careers in Cyber (Penetration Testing)** ✅
-* **Become a Hacker (Premium)** ✅ 🆕
+* **Become a Hacker (Premium)** ✅ 
 * **Burp Suite: Repeater** ✅
 
 ### *** *** *** Defensive Security
