@@ -8,7 +8,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Networking & Foundations
 * **How The Web Works** ✅
 * **What is Networking?** ✅
-* **Intro to LAN** ✅ 
+* **Intro to LAN** ✅
+* **OSI Model** ✅ 
 * **Inside a Computer System** ✅
 * **Computer Types** ✅
 * **Virtualisation Basics** ✅
@@ -46,7 +47,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Current Streak:** 27 Days 🔥
-* **Current League:** Gold (Rank #3) 🥇
-* **2026 Goal:** Comprehensive Personal Growth & Technical Mastery
+* **Current Streak:** 28 Days 🔥
+* **Total Points (Current Session):** 451 📊
+* **Current League:** Gold (Rank #5) 🥇
+* **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
