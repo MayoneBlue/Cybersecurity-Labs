@@ -6,12 +6,13 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** Networking & Foundations
-* **How The Web Works** ✅
+* **How The Web Works**
+    * **Client-Server Basics** ✅ 🆕
 * **What is Networking?** ✅
 * **Intro to LAN** ✅
 * **OSI Model** ✅
 * **Packets & Frames** ✅
-* **Extending Your Network** ✅ 
+* **Extending Your Network** ✅
 * **Inside a Computer System** ✅
 * **Computer Types** ✅
 * **Virtualisation Basics** ✅
@@ -49,9 +50,9 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 31 Days 🔥
-* **TryHackMe Platform Streak:** 30 Days 🏆
-* **Current League:** Gold (Rank #9) 🥇
+* **Total Journey Streak:** 32 Days 🔥
+* **TryHackMe Platform Streak:** 31 Days 🏆
+* **Current League:** Gold 🥇
 * **Badges:** Networking Nerd 🏅
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
