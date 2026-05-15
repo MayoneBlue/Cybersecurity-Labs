@@ -7,7 +7,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### *** *** *** Networking & Foundations
 * **How The Web Works**
-    * **Client-Server Basics** ✅ 🆕
+* **Client-Server Basics** ✅ 
 * **What is Networking?** ✅
 * **Intro to LAN** ✅
 * **OSI Model** ✅
