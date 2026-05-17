@@ -20,8 +20,9 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Operating Systems: Introduction** ✅
 * **Windows Basics** ✅
 * **Linux CLI - Shells Bells** ✅
-* **Linux CLI Basics** ✅ 
+* **Linux CLI Basics** ✅
 * **Windows Command Line** ✅
+* **Windows CLI Basics** ✅ 
 * **Data Representation** ✅
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
@@ -51,8 +52,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 33 Days 🔥
-* **TryHackMe Platform Streak:** 32 Days 🏆
+* **Total Journey Streak:** 34 Days 🔥
+* **TryHackMe Platform Streak:** 33 Days 🏆
 * **Current League:** Gold 🥇
 * **Badges:** Networking Nerd 🏅
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
