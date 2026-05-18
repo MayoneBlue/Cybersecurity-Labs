@@ -18,11 +18,12 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Virtualisation Basics** ✅
 * **Cloud Computing Fundamentals** ✅
 * **Operating Systems: Introduction** ✅
+* **Operating System Security** ✅ 
 * **Windows Basics** ✅
 * **Linux CLI - Shells Bells** ✅
 * **Linux CLI Basics** ✅
 * **Windows Command Line** ✅
-* **Windows CLI Basics** ✅ 
+* **Windows CLI Basics** ✅
 * **Data Representation** ✅
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
@@ -46,14 +47,14 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, OpenVPN, Burp Suite, Nmap
+* **Security & Systems:** Kali Linux, Windows CMD, Linux CLI, OS Hardening Basics
 * **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 34 Days 🔥
-* **TryHackMe Platform Streak:** 33 Days 🏆
+* **Total Journey Streak:** 35 Days 🔥
+* **TryHackMe Platform Streak:** 34 Days 🏆
 * **Current League:** Gold 🥇
 * **Badges:** Networking Nerd 🏅
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
