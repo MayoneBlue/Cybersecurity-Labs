@@ -49,7 +49,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** Tech Stack
-* **Development:** Frontend Development (React, HTML, CSS, JavaScript), Python, SQL (Data Querying)
+* **Development:** Frontend Development (React, HTML, CSS, JavaScript)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
 * **Security & Systems:** Kali Linux, Windows CMD, Linux CLI, OS Hardening Basics
 * **Access Level:** TryHackMe Premium 💎
