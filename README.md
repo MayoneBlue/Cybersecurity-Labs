@@ -26,7 +26,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Windows CLI Basics** ✅
 * **Python: Simple Demo** ✅
 * **JavaScript: Simple Demo** ✅
-* **Database SQL Basics** ✅ 
+* **Database SQL Basics** ✅
 * **Data Representation** ✅
 * **Data Encoding** ✅
 * **The CIA Triad** ✅
@@ -43,12 +43,13 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** Defensive Security
 * **Introduction to Defensive Security** ✅
 * **Defensive Security Intro** ✅
+* **Become a Defender** ✅ 
 * **Threat Identification & Log Analysis** ✅
 
 ---
 
 ### *** *** *** Tech Stack
-* **Development:** Frontend Development (React, HTML, CSS, JavaScript)
+* **Development:** Frontend Development (React, HTML, CSS, JavaScript), Python, SQL (Data Querying)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
 * **Security & Systems:** Kali Linux, Windows CMD, Linux CLI, OS Hardening Basics
 * **Access Level:** TryHackMe Premium 💎
@@ -56,8 +57,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 38 Days 🔥
-* **TryHackMe Platform Streak:** 37 Days 🏆
+* **Total Journey Streak:** 39 Days 🔥
+* **TryHackMe Platform Streak:** 38 Days 🏆
 * **Current League:** Platinum 🪙
 * **Badges:** Networking Nerd 🏅
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
