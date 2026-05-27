@@ -6,7 +6,7 @@ Solidified command-line proficiency by conquering "Linux Fundamentals Part 2" wi
 * **Linux Fundamentals Part 2:** Mastered all 10 hands-on terminal tasks. ✅
 * **Streak Milestone:** Day 43 of the total documented journey / 42-day platform streak. 🔥
 * **Points Accumulated:** Racked up a massive 154 points in a single session. 📈
-* **Competitive Status:** Holding Rank #15 in the Gold League with a total of 242 points. 🥇
+* **Competitive Status:** Holding Rank #14 in the Gold League with a total of 242 points. 🥇
 
 ---
 
