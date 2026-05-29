@@ -22,8 +22,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 45 Days 🔥
-* **TryHackMe Platform Streak:** 44 Days 🏆
+* **Total Journey Streak:** 46 Days 🔥
+* **TryHackMe Platform Streak:** 45 Days 🏆
 * **Current League:** Gold (Rank #12) 🥇
 * **Badges:** Networking Nerd 🏅, cat linux.txt 🐧
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
