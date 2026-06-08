@@ -16,15 +16,15 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### *** *** *** 🛠️ Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, Browser DevTools, Gobuster/Dirbuster, Nmap, Burp Suite, SSRF / Parameter Tampering
+* **Security Tools:** Kali Linux, Browser DevTools, Gobuster/Dirbuster, Nmap, Burp Suite, XSS / Payload Injection
 * **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### *** *** *** 📈 Stats & Progress
-* **Total Journey Streak:** 55 Days 🔥
-* **TryHackMe Platform Streak:** 54 Days 🏆
-* **Current League:** Gold (Rank #9) 🥇
+* **Total Journey Streak:** 56 Days 🔥
+* **TryHackMe Platform Streak:** 55 Days 🏆
+* **Current League:** Gold (Rank #7) 🥇
 * **Badges:** Cyber Ready 🎓, Networking Nerd 🏅, cat linux.txt 🐧
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
