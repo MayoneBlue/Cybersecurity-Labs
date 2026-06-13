@@ -7,7 +7,6 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### Completion Paths & Milestone Modules
 * **Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
-* **Introduction to Web Hacking Module** (XSS, Burp Suite, SSRF, Command Injection) ✅ 🏅
 
 ### 🚀 Current Focus / Active Paths
 * **Web Fundamentals** 🔄 *(In Progress - Actively targeting web application attack vectors)*
