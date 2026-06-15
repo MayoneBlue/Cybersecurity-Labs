@@ -10,21 +10,22 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### 🚀 Current Focus / Active Paths
 * **Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, Command Injection, and SQLi)*
+* **CTF Challenges** 🏴‍☠️ *(Applying practical exploit methodologies in standalone challenge environments)*
 
 ---
 
 ### 🛠️ Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, Burp Suite Pro/Community (Proxy, Repeater, Intruder, BApp Extensions), SQL Injection, OS Command Injection, Nmap
+* **Security Tools:** Kali Linux, Burp Suite Pro/Community (Proxy, Repeater, Intruder, BApp Extensions), SQL Injection, OS Command Injection, Nmap, Directory Brute-forcing (Gobuster/Dirb)
 * **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 62 Days 🔥
-* **TryHackMe Platform Streak:** 61 Days 🏆
-* **Current League:** Platinum (Rank #6) 🥈
+* **Total Journey Streak:** 63 Days 🔥
+* **TryHackMe Platform Streak:** 62 Days 🏆
+* **Current League:** Platinum 🥈
 * **Badges:** Intro to Web Hacking 🎓, Cyber Ready 🏅, Networking Nerd 🌐, cat linux.txt 🐧, Burp'ded 🐝
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
