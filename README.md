@@ -10,7 +10,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### 🚀 Current Focus / Active Paths
 * **Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, Command Injection, and SQLi)*
-* **Practice Labs:** Standalone Capture The Flag (CTF) environments to practice manual system exploitation, binary memory corruption, remote code execution, and privilege escalation.
+* **Practice Labs:** Standalone Capture The Flag (CTF) environments to practice manual system exploitation.
 
 ---
 
