@@ -10,6 +10,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### 🚀 Current Focus / Active Paths
 * **Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, Command Injection, and SQLi)*
+* **OWASP API Security Path** 🔄 *(In Progress - Analyzing programmatic API endpoint flaws and authorization logic)*
 * **Practice Labs:** Standalone Capture The Flag (CTF) environments to practice manual system exploitation.
 
 ---
@@ -17,15 +18,15 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### 🛠️ Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, Burp Suite Pro/Community, Authentication Bypass, Remote Code Execution (RCE), Binary Exploitation (Buffer Overflows), AWS S3 Enumeration, SQL Injection, Nmap, Directory Fuzzing (Gobuster/Dirb)
+* **Security Tools:** Kali Linux, Burp Suite Pro/Community, API Penetration Testing, Authentication Bypass, Remote Code Execution (RCE), Binary Exploitation (Buffer Overflows), SQL Injection, Nmap, Directory Fuzzing
 * **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 75 Days 🔥
-* **TryHackMe Platform Streak:** 74 Days 🏆
-* **Current League:** Sapphire (Rank #15) 💎
+* **Total Journey Streak:** 76 Days 🔥
+* **TryHackMe Platform Streak:** 75 Days 🏆
+* **Current League:** Sapphire (Rank #16) 💎
 * **Badges:** Intro to Web Hacking 🎓, Cyber Ready 🏅, Networking Nerd 🌐, cat linux.txt 🐧, Burp'ded 🐝
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
