@@ -17,15 +17,15 @@ This repository contains my technical notes, tool configurations, and lab write-
 ### 🛠️ Tech Stack
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, Burp Suite Pro/Community, Remote Code Execution (RCE) & Command Injection, Security Operations Center (SOC) Frameworks, Open Source Intelligence (OSINT), API Penetration Testing, SQL Injection, Nmap, Directory Fuzzing
+* **Security Tools:** Kali Linux, Burp Suite Pro/Community, Remote Code Execution (RCE) & Command Injection, SQL Injection (SQLi) & Hash Cracking, Security Operations Center (SOC) Frameworks, Open Source Intelligence (OSINT), API Penetration Testing, Nmap, Directory Fuzzing
 * **Access Level:** TryHackMe Premium 💎
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 80 Days 🔥
-* **TryHackMe Platform Streak:** 79 Days 🏆
-* **Current League:** Platinum (Rank #11) 🥈
+* **Total Journey Streak:** 81 Days 🔥
+* **TryHackMe Platform Streak:** 80 Days 🏆
+* **Current League:** Platinum (Rank #12) 🥈
 * **Badges:** Intro to Web Hacking 🎓, Cyber Ready 🏅, Networking Nerd 🌐, cat linux.txt 🐧, Burp'ded 🐝
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
