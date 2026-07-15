@@ -1,5 +1,5 @@
 # Web Penetration Testing & Cybersecurity Labs
-### 🎓 Cyber Security Student @ FUTA 🇳🇬
+### 🎓 Cyber Security Student
 
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
@@ -23,9 +23,9 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 92 Days 🔥
-* **TryHackMe Platform Streak:** 91 Days 🏆
-* **Current League:** Silver (Rank #7) 🥈
+* **Total Journey Streak:** 93 Days 🔥
+* **TryHackMe Platform Streak:** 92 Days 🏆
+* **Current League:** Silver (300 Points) 🥈
 * **Badges:** Intro to Web Hacking 🎓, Cyber Ready 🏅, Networking Nerd 🌐, cat linux.txt 🐧, Burp'ded 🐝
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
