@@ -1,5 +1,5 @@
 # Web Penetration Testing & Cybersecurity Labs
-### 🎓 Cyber Security Student
+### 🎓 Cyber Security Student @ FUTA 🇳🇬
 
 This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
 
