@@ -1,31 +1,32 @@
 # Web Penetration Testing & Cybersecurity Labs
 ### 🎓 Cyber Security Student @ FUTA 🇳🇬
 
-This repository contains my technical notes, tool configurations, and lab write-ups from TryHackMe and Kali Linux.
+This repository contains my technical notes, tool configurations, and lab write-ups from multi-platform security environments including TryHackMe, Hack The Box, and Kali Linux.
 
 ---
 
 ### Completion Paths & Milestone Modules
-* **Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
+* **THM Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
 
 ### 🚀 Current Focus / Active Paths
-* **Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, API Security, Command Injection, and SQLi)*
+* **THM Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, API Security, Command Injection, and SQLi)*
+* **HTB Starting Point:** Tier 0 fundamentals focusing on fundamental network protocols, weak configurations, and command-line target interaction (Telnet, FTP, SMB).
 * **Practice Labs / CTFs:** Standalone target environments emphasizing web reconnaissance, defensive monitoring awareness, manual exploitation, and privilege escalation.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Platforms
+* **Platforms:** TryHackMe (Premium 💎), Hack The Box (Starting Point 🚀)
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
-* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app) 🚀
-* **Security Tools:** Kali Linux, Burp Suite Pro/Community, Remote Code Execution (RCE) & Command Injection, SQL Injection (SQLi) & Hash Cracking, Sudo Exploitation & Privilege Escalation, Security Operations Center (SOC) Frameworks, Open Source Intelligence (OSINT), Nmap, Directory Fuzzing
-* **Access Level:** TryHackMe Premium 💎
+* **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app)
+* **Security Tools:** Kali Linux, Burp Suite, Telnet/FTP Auditing, SUID/Sudo Privilege Escalation, Nmap, Directory Fuzzing, Command Injection & RCE
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 96 Days 🔥
-* **TryHackMe Platform Streak:** 95 Days 🏆
-* **Current League:** Silver (540 Points) 🥈
-* **Badges:** Intro to Web Hacking 🎓, Cyber Ready 🏅, Networking Nerd 🌐, cat linux.txt 🐧, Burp'ded 🐝
+* **Total Journey Streak:** 97 Days 🔥
+* **TryHackMe Platform Streak:** 96 Days 🏆
+* **Hack The Box Progression:** Tier 0 Starting Point Completed (Fawn, Meow) 🚀
+* **Current THM League:** Silver 🥈
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
