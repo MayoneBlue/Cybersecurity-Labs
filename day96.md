@@ -4,7 +4,7 @@ Today I attended a HackTheBox meetup and successfully pwned the Fawn machine! Th
 
 ### Completed Today:
 * **Fawn (HackTheBox):** Solved and retired the machine during the meetup. Earned 150 XP.
-* **Streak Milestone:** Day 96 of the overall journey | 96-day TryHackMe streak maintained🔥 by completing a simple CTF.
+* **Streak Milestone:** Day 96 of the overall journey | 95-day TryHackMe streak maintained🔥 by completing a simple CTF.
 * **Community:** Attended HackTheBox local meetup (great networking and learning vibe). 👥
 
 ---
