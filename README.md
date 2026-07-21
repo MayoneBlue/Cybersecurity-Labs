@@ -19,14 +19,14 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Platforms:** TryHackMe (Premium 💎), Hack The Box (Starting Point 🚀)
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app)
-* **Security Tools:** Kali Linux, Burp Suite, SMB/Telnet/FTP Auditing, SUID/Sudo Privilege Escalation, Nmap, Directory Fuzzing, Command Injection & RCE
+* **Security Tools:** Kali Linux, Burp Suite, SMB/Telnet/FTP Auditing, Hash Cracking (John the Ripper / Hashcat), SUID/Sudo Privilege Escalation, Nmap, Directory Fuzzing, Command Injection & RCE
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 98 Days 🔥
-* **TryHackMe Platform Streak:** 97 Days 🏆
+* **Total Journey Streak:** 99 Days 🔥
+* **TryHackMe Platform Streak:** 98 Days 🏆
 * **Hack The Box Progression:** Tier 0 Starting Point (Fawn, Meow, Dancing) 🚀
-* **Current THM League:** Silver 🥈
+* **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
