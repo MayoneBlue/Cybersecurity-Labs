@@ -9,7 +9,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **THM Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
 
 ### 🚀 Current Focus / Active Paths
-* **THM Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, API Security, Command Injection, and SQLi)*
+* **THM Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, API Security, Command Injection, SQLi, and OWASP Top 10)*
 * **HTB Starting Point:** Tier 0 fundamentals focusing on key network protocols, weak service configurations, and CLI interaction (Telnet, FTP, SMB).
 * **Practice Labs / CTFs:** Standalone target environments emphasizing web reconnaissance, defensive monitoring awareness, manual exploitation, and privilege escalation.
 
@@ -24,8 +24,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 105 Days 🔥
-* **TryHackMe Platform Streak:** 104 Days 💯🏆
+* **Total Journey Streak:** 106 Days 🔥
+* **TryHackMe Platform Streak:** 105 Days 💯🏆
 * **Hack The Box Progression:** Tier 0 Starting Point (Fawn, Meow, Dancing) 🚀
 * **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
