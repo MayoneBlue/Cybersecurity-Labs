@@ -5,8 +5,9 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ---
 
-### Completion Paths & Milestone Modules
+### Completion Paths & Milestone Badges
 * **THM Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
+* **THM OWASP Top 10 Badge** (Understanding & Exploiting Core Web Application Vulnerabilities) 🐝🏆
 
 ### 🚀 Current Focus / Active Paths
 * **THM Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including XSS, Burp Suite, SSRF, API Security, Command Injection, SQLi, and OWASP Top 10)*
@@ -24,8 +25,8 @@ This repository contains my technical notes, tool configurations, and lab write-
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 106 Days 🔥
-* **TryHackMe Platform Streak:** 105 Days 💯🏆
+* **Total Journey Streak:** 107 Days 🔥
+* **TryHackMe Platform Streak:** 106 Days 💯🏆
 * **Hack The Box Progression:** Tier 0 Starting Point (Fawn, Meow, Dancing) 🚀
 * **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
