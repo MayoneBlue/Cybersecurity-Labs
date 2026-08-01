@@ -1,33 +1,34 @@
 # Web Penetration Testing & Cybersecurity Labs
 ### 🎓 Cyber Security Student @ FUTA 🇳🇬
 
-This repository contains my technical notes, tool configurations, and lab write-ups from multi-platform security environments including TryHackMe, Hack The Box, and Kali Linux.
+This repository contains my technical notes, tool configurations, and lab write-ups from multi-platform security environments including TryHackMe, PortSwigger Academy, Hack The Box, and Kali Linux.
 
 ---
 
-### Completion Paths & Milestone Badges
-* **THM Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting Basics) ✅ 🎓
-* **THM OWASP Top 10 Badge** (Understanding & Exploiting Core Web Application Vulnerabilities) 🐝🏆
+### Completion Paths & Milestone Certifications
+* **THM Pre-Security Path** (Network Fundamentals, Linux, Windows, Systems, Scripting) ✅ 🎓
+* **THM Web Fundamentals Path** (Web Architecture, HTTP, Burp Suite, OWASP Top 10, File Uploads, Command Injection, SQLi) ✅ 🎓
+* **THM OWASP Top 10 Badge** 🐝🏆
 
 ### 🚀 Current Focus / Active Paths
-* **THM Web Fundamentals Path** 🔄 *(In Progress - Actively targeting web application attack vectors including Unrestricted File Uploads, XSS, Burp Suite, SSRF, API Security, Command Injection, and SQLi)*
-* **HTB Starting Point:** Tier 0 fundamentals focusing on key network protocols, weak service configurations, and CLI interaction (Telnet, FTP, SMB).
-* **Practice Labs / CTFs:** Standalone target environments emphasizing web reconnaissance, defensive monitoring awareness, manual exploitation, and privilege escalation.
+* **THM Jr Penetration Tester Path** 🔄 *(Starting next: Active Directory, Privilege Escalation, Exploitation Frameworks, Network Security)*
+* **PortSwigger Web Security Academy (Apprentice Tier):** Systematic walkthrough of core web vulnerability categories (SQLi, XSS, CSRF, Access Control) focusing on fundamental Burp Suite workflows.
+* **HTB Starting Point:** Tier 0 fundamentals focusing on key network protocols, weak service configurations, and CLI interaction.
 
 ---
 
 ### 🛠️ Tech Stack & Platforms
-* **Platforms:** TryHackMe (Premium 💎), Hack The Box (Starting Point 🚀)
+* **Platforms:** TryHackMe (Premium 💎), PortSwigger Academy 🧪, Hack The Box (Starting Point 🚀)
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app)
-* **Security Tools:** Kali Linux, Burp Suite, Advanced Nmap & NSE Scripts, SMB/Telnet/FTP Auditing, Hash Cracking (John the Ripper / Hashcat), SUID/Sudo Privilege Escalation, Buffer Overflow Exploitation, Directory Fuzzing, Command Injection & RCE, Web Shells & File Upload Bypass
+* **Security Tools:** Kali Linux, Burp Suite, Advanced Nmap & NSE Scripts, SMB/Telnet/FTP Auditing, Hash Cracking (John the Ripper / Hashcat), Privilege Escalation, Web Shells & File Upload Bypass
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 109 Days 🔥
+* **Total Journey Streak:** 110 Days 🔥
 * **TryHackMe Platform Streak:** 108 Days 💯🏆
-* **Hack The Box Progression:** Tier 0 Starting Point (Fawn, Meow, Dancing) 🚀
+* **Hack The Box Progression:** Tier 0 Starting Point 🚀
 * **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
