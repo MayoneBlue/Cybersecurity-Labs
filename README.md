@@ -27,7 +27,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 
 ### 📈 Stats & Progress
 * **Total Journey Streak:** 110 Days 🔥
-* **TryHackMe Platform Streak:** 108 Days 💯🏆
+* **TryHackMe Platform Streak:** 109 Days 💯🏆
 * **Hack The Box Progression:** Tier 0 Starting Point 🚀
 * **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
