@@ -21,13 +21,13 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Platforms:** TryHackMe (Premium 💎), PortSwigger Academy 🧪, Hack The Box (Starting Point 🚀)
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app)
-* **Security Tools:** Kali Linux, Burp Suite, Apache Tomcat Exploitation (JSP Web Shells), Advanced Nmap & NSE Scripts, SMB/Telnet/FTP Auditing, Hash Cracking, Privilege Escalation, File Upload Bypass
+* **Security Tools:** Kali Linux, Burp Suite, WebDAV Exploitation, Apache Tomcat (JSP Web Shells), Advanced Nmap & NSE Scripts, SMB/Telnet/FTP Auditing, Hash Cracking, Privilege Escalation, File Upload Bypass
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 112 Days 🔥
-* **TryHackMe Platform Streak:** 111 Days 💯🏆
+* **Total Journey Streak:** 113 Days 🔥
+* **TryHackMe Platform Streak:** 112 Days 💯🏆
 * **Hack The Box Progression:** Tier 0 Starting Point 🚀
 * **Current THM League:** Gold 🥇
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
