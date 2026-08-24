@@ -11,7 +11,7 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **THM OWASP Top 10 Badge** 🐝🏆
 
 ### 🚀 Current Focus / Active Paths
-* **THM Jr Penetration Tester Path** 🔄 *(Active Focus: Privilege Escalation, Exploitation Frameworks, Network Security)*
+* **THM Jr Penetration Tester Path** 🔄 *(Active Focus: Exploitation Frameworks, Post-Exploitation, Active Reconnaissance)*
 * **PortSwigger Web Security Academy (Apprentice Tier):** Systematic walkthrough of core web vulnerability categories (SQLi, XSS, CSRF, Access Control) focusing on fundamental Burp Suite workflows.
 * **HTB Starting Point:** Tier 0 fundamentals focusing on key network protocols, weak service configurations, and CLI interaction.
 
@@ -21,14 +21,14 @@ This repository contains my technical notes, tool configurations, and lab write-
 * **Platforms:** TryHackMe (Premium 💎), PortSwigger Academy 🧪, Hack The Box (Starting Point 🚀)
 * **Development:** Frontend Development (React, HTML, CSS, JavaScript), Scripting (Python, SQL)
 * **Live Site:** [Sneaker Store](https://sneaker-store-ui.vercel.app)
-* **Security Tools:** Kali Linux, Burp Suite, Sudo Security Bypass / PrivEsc, Apache Tomcat Exploitation, WebDAV Exploitation, Advanced Nmap & NSE Scripts, SMB/Telnet/FTP Auditing, Hash Cracking, File Upload Bypass
+* **Security Tools:** Kali Linux, Metasploit Framework & Meterpreter, Burp Suite, Gobuster (Dir/DNS/VHost Brute-forcing), Sudo Security Bypass / PrivEsc, Apache Tomcat Exploitation, Advanced Nmap & NSE Scripts, Hash Cracking
 
 ---
 
 ### 📈 Stats & Progress
-* **Total Journey Streak:** 131 Days 🔥
-* **TryHackMe Platform Streak:** 131 Days 💯🏆
+* **Total Journey Streak:** 132 Days 🔥
+* **TryHackMe Platform Streak:** 132 Days 💯🏆
 * **Hack The Box Progression:** Tier 0 Starting Point 🚀
-* **Current THM League:** Bronze 🥉 (#11)
+* **Current THM League:** Bronze 🥉
 * **2026 Goal:** Technical Mastery & Professional Certification Readiness
 *
